@@ -1,5 +1,5 @@
 <p align="left">
-$\mathcal{\color{#8ab8b1}{ねぇ \ 僕はこの恋を}}$ <br> $\mathcal{\color{#8ab8b1}{Hey,\ with \ what \ words}}$
+<i> <p style="color:#8ab8b1;"> ねぇ 僕はこの恋を <br> Hey, with  what words </p> </i>
 </p>
 
 <p align="center">
@@ -11,5 +11,5 @@ $\mathcal{\color{#8ab8b1}{ねぇ \ 僕はこの恋を}}$ <br> $\mathcal{\color{#
 </p>
 
 <p align="right">
-$\mathcal{\color{#8ab8b1}{どんな言葉で　\ とじたらいいの}}$ <br> $\mathcal{\color{#8ab8b1}{Should \ I \ close \ the \ door \ on \ this \ love?}}$
+<i>どんな言葉で とじたらいいの <br> Should I close the door on this love?</i>
 </p>
